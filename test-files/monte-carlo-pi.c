@@ -35,4 +35,5 @@ main(int argc, char* argv)
 
 	pi = (double)count/n*4; 
 	
-	printf("	
+	printf("# of trials = %d, estimate of pi is %g \n", n, pi); 
+}	
